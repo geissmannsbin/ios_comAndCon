@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B0FD8963-CBE7-4A75-A69D-A96EE64DA88F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19F8EDE1-3FA4-4A85-BB7B-9A57E296F262"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComAndCon/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "images"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "19F8EDE1-3FA4-4A85-BB7B-9A57E296F262 - fcc82c6e9b54d843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComAndCon.ViewController.images.getter : Swift.Array&lt;ComAndCon.ViewController.ImageInfo&gt;"
+                  moduleName = "ComAndCon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rge/ios/ComAndCon/ComAndCon/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "19F8EDE1-3FA4-4A85-BB7B-9A57E296F262 - 1b9c33a4b53635b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComAndCon.ViewController.images.setter : Swift.Array&lt;ComAndCon.ViewController.ImageInfo&gt;"
+                  moduleName = "ComAndCon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rge/ios/ComAndCon/ComAndCon/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "19F8EDE1-3FA4-4A85-BB7B-9A57E296F262 - 2567336165a35089"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComAndCon.ViewController.images.modify : Swift.Array&lt;ComAndCon.ViewController.ImageInfo&gt;"
+                  moduleName = "ComAndCon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rge/ios/ComAndCon/ComAndCon/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "19F8EDE1-3FA4-4A85-BB7B-9A57E296F262 - 8a172a8ef84bbe40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComAndCon.ViewController.images.modify : Swift.Array&lt;ComAndCon.ViewController.ImageInfo&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ComAndCon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rge/ios/ComAndCon/ComAndCon/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "19F8EDE1-3FA4-4A85-BB7B-9A57E296F262 - ae9408ee150f0aa1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComAndCon.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ComAndCon.ViewController"
+                  moduleName = "ComAndCon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rge/ios/ComAndCon/ComAndCon/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "19F8EDE1-3FA4-4A85-BB7B-9A57E296F262 - 9144d2894bec5865"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComAndCon.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ComAndCon.ViewController&gt;"
+                  moduleName = "ComAndCon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rge/ios/ComAndCon/ComAndCon/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
